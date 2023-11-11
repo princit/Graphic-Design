@@ -1,4 +1,4 @@
-** Topic 1 | Theory: Introduction of the Instructor and Course
+**Topic 1 | Theory: Introduction of the Instructor and Course** 
 
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/39f79cab-7403-4b72-917d-d72097013815)
  <table>
@@ -40,8 +40,10 @@
 
 Flash-->animation techniques
 
-** Topic 2 | Theory: What will You Learn in this Course?
+**Topic 2 | Theory: What will You Learn in this Course?** 
+
 1-Elements of Design 
+
 2-principle of Design
 
  <table>
@@ -60,7 +62,7 @@ Flash-->animation techniques
         </tr>
     </tbody>
   </table>              
-** Topic 3 | Theory: What is Graphic Design?
+** Topic 3 | Theory: What is Graphic Design? ** 
  
 <table>
     <thead>
@@ -109,6 +111,14 @@ It is a problem solving activity
     </tbody>
   </table>  
 That defines a purpose
+<table>
+    <thead>
+      <tr>
+        <th>to deliver the message visually</th>
+        <th>which is effecitve but beautiful  </th>
+      </tr>
+    </thead>
+  </table>  
 
 
 
