@@ -99,7 +99,33 @@ Distribution and spacing option is avaliable
 Shift + E
 
 [-->size Decrease
+
 ]-->size Increase
+
+**Topic 27 | Software: Adobe Illustrator - Tools - Eyedropper and Slice Tool**
+
+Eye dropper -->help to pick colour
+
+slice toll -->web designing ,UI
+
+![image](https://github.com/princit/Graphic-Design/assets/29123911/87bd217b-6702-4c22-a1d3-0d1a66c7c275)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/9d6da710-4af0-4a75-a34c-572f311d49c2)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/2a0954a2-48ec-46fc-b31d-42364b6a535e)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/3878b7af-675e-4012-bd65-74b72f8e4c7f)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/078c7eea-0998-4433-8a9c-d33e6b402779)
+
+**Topic 28 | Software: Adobe Illustrator - Scale Tool and Width Tool**
+
+![image](https://github.com/princit/Graphic-Design/assets/29123911/2ebea5ee-c173-4db3-a92a-4fe39ba44eac)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/32d6972b-cb3c-4d11-97fd-7d8f954e76f6)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/4b25983a-1743-41c3-b1ea-d18b4d9a7d70)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/67cae1cb-6b2d-4e22-ad61-8507a939b9bd)
+Alt + 
+![image](https://github.com/princit/Graphic-Design/assets/29123911/b552a50f-9410-4d47-ae04-cc76dbd2610e)
+
+
+
+
 
 
 
