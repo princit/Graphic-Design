@@ -91,4 +91,16 @@ Distribution and spacing option is avaliable
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/6559c906-ba1a-4ca8-be7b-ee7618ba7233)
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/26000b08-6f39-4545-9964-cb00c32ff6b5)
 
+**Topic 25 | Software: Adobe Illustrator - Path Finder**
+![image](https://github.com/princit/Graphic-Design/assets/29123911/6432ffba-8bd0-41b1-a0a2-0402d93453b7)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/86290c08-899d-41ed-9180-0b637758cd32)
+
+**Topic 26 | Software: Adobe Illustrator - Tools - Eraser and Rotate Tool**
+Shift + E
+
+[-->size Decrease
+]-->size Increase
+
+
+
 
