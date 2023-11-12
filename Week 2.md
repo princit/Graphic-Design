@@ -64,7 +64,31 @@ Press N -->pincle tool
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/e5aea600-1fcc-4202-9894-e03c0c882548)
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/73a117e5-018a-4656-86f7-559a14b4ef4c)
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/3e7391c5-ec72-429c-8e56-759afff6f327)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/9c940b83-6b62-4139-92d7-b77fb7ad8029)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/ddcffc45-eb2a-4a02-b6e4-3e6074916bcb)
 
+**Topic 23 | Software: Adobe Illustrator - Transform**
+![image](https://github.com/princit/Graphic-Design/assets/29123911/2a0fb09f-8f5c-4bad-97bd-7790e0b9d72d)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/2cf3a2ce-bb19-4b90-aaef-aff46b18b11d)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/9ae836fa-cba5-48a7-9ea4-26f210f71815)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/774b9514-d581-410a-92f3-11f8eaf58453)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/8db741ba-6e56-468e-a524-3a06eede765c)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/bf3f8066-80d5-42ff-99bd-cc4deca62bb4)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/4dd161d5-4a82-4813-9e4d-d46c9b540db0)
 
+**Topic 24 | Software: Adobe Illustrator - Align**
+
+Align your things around canvas
+
+Align your shapes and object around your object
+
+Align throught selection
+
+Distribution and spacing option is avaliable
+
+![image](https://github.com/princit/Graphic-Design/assets/29123911/1692d782-99d9-4fe6-86bd-0a130af1d762)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/60abca40-c2a9-4af2-98c9-b5824794b212)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/6559c906-ba1a-4ca8-be7b-ee7618ba7233)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/26000b08-6f39-4545-9964-cb00c32ff6b5)
 
 
