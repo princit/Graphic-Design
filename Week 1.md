@@ -1,4 +1,4 @@
-**Topic 1 | Theory: Introduction of the Instructor and Course** 
+![image](https://github.com/princit/Graphic-Design/assets/29123911/b10ef927-a932-4bfb-8886-331a44783efc)**Topic 1 | Theory: Introduction of the Instructor and Course** 
 
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/39f79cab-7403-4b72-917d-d72097013815)
  <table>
@@ -259,4 +259,56 @@ Control - -->zoom out
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/6fd453a7-cee1-49c8-8f64-e8691fadeeb3)
 
 **Topic 14 | Software: Adobe Illustrator - Ruler, Grid and Smart Guide**
+
 control + r --> ruler
+
+ruler tells -->canvus size and it demention-->work in order 
+
+grid system-->tellus the framework on which our structure i made
+
+Smart Guide-->guide pour object 
+
+![image](https://github.com/princit/Graphic-Design/assets/29123911/33ecb0b8-60d8-4736-ab4e-5aae9e1a114c)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/dfcdf228-621c-495a-9da7-1c483da76511)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/9b039ed8-4dea-4ea9-bb03-f0096df36f3e)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/f4665070-c6bb-42fa-accd-0b2c41cbab91)
+
+Grids 
+![image](https://github.com/princit/Graphic-Design/assets/29123911/7faa42d4-6d4a-4e30-a0b0-f735b2a124d3)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/d7a575d0-bf03-4a76-82f3-148aff5a63b1)
+
+**Topic 15 | Software: Adobe Illustrator - Panels and Workspaces**
+
+![image](https://github.com/princit/Graphic-Design/assets/29123911/8b284247-bbf0-467e-926e-a1a25cdd33e4)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/b425ba4f-c6ca-4c7c-85f0-5313ab69e70b)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/0865870e-e82a-44a2-b6a1-0713e576556c)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/c06476a5-6370-4f89-8ac4-ebc01d603a23)
+
+
+**Topic 16 | Software: Adobe Illustrator - Paths and Points**
+![image](https://github.com/princit/Graphic-Design/assets/29123911/b34ebab1-4c59-49fa-918a-7fa442b2c80e)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/f11b07f1-3a5c-4635-ae13-0d5df5445fda)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/bcd2cbe4-353c-422e-8112-f888dde27ee0)
+
+**Topic 17 | Software: Adobe Illustrator - Draw and Edit Shapes - Pen Tool**
+![image](https://github.com/princit/Graphic-Design/assets/29123911/bd57b240-0fe0-45f6-bda0-5b0112d7a574)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/c3e25186-759a-44ba-8f79-454cfa78ed06)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/bf8230dc-add7-4372-9c51-0772b5c06fa2)
+
+**Topic 18 | Software: Adobe Illustrator - Draw and Edit Shapes - Curvature Tool**
+press M--draw rectangle
+
+press shift -->rectangle take the form of cube--all sides equal
+![image](https://github.com/princit/Graphic-Design/assets/29123911/109b447a-ddf5-4f63-88f5-3bf0ee724585)
+press R to rotate
+Or drag the corner
+![image](https://github.com/princit/Graphic-Design/assets/29123911/9985ba4e-a81e-4316-b58d-10d38efc9f5e)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/3818593e-2dee-464f-9213-87562b221814)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/8f15672f-d53f-4713-9947-aeea578bfefd)
+
+
+
+
+
+
+
