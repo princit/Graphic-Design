@@ -123,6 +123,25 @@ slice toll -->web designing ,UI
 Alt + 
 ![image](https://github.com/princit/Graphic-Design/assets/29123911/b552a50f-9410-4d47-ae04-cc76dbd2610e)
 
+**Topic 29 | Software: Adobe Illustrator - Free Transform Tool and Puppet Warp Tool**
+![image](https://github.com/princit/Graphic-Design/assets/29123911/1801b79f-79dd-4d3a-86cd-a5179d8cc559)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/541a5d9f-4c58-4a2a-884b-10ca31b7c2d8)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/152e6b4a-8155-48c3-9973-3b80e584e580)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/b14cdf92-df25-482d-9218-67ad2020a1e6)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/9ec3a332-3f9f-4a20-bbf0-c5abe3e6fd02)
+
+**Topic 30 | Software: Adobe Illustrator - Magic Wand Tool and Lasso Tool**
+![image](https://github.com/princit/Graphic-Design/assets/29123911/497da827-28e8-4d82-992a-4521229e3ed7)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/b0486372-fa0b-44b6-bde2-5d26ceabd958)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/fd8611ad-1216-4a40-bebc-a852fe8e570e)
+![image](https://github.com/princit/Graphic-Design/assets/29123911/6fca6c58-c1b0-4bb3-a84a-ecc7beebf3e7)
+
+
+
+
+
+
+
 
 
 
